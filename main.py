@@ -1,4 +1,4 @@
-    grade = "A"
+    grade = "86"
 
     if grade >= 90 and grade <= 100:
         grade = "A"
